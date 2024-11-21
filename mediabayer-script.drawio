@@ -1,0 +1,619 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.6">
+  <diagram name="Страница — 1" id="4PJW_PjdBKuBqJXrM88N">
+    <mxGraphModel dx="4320" dy="3364" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="#FAFAFA" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="I0kQURk4yg3gE_exjXrF-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Скрипт для оператора&amp;nbsp; (10%..)&lt;/h1&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;1. Приветствие и представление:&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;b&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- &lt;font color=&quot;#003366&quot;&gt;ОПЕРАТОР&lt;/font&gt;: &lt;/b&gt;Здравствуйте! вы позвонили на горячую линию [&lt;font color=&quot;#08080a&quot;&gt;КОМПАНИИ]. Меня зовут ОПЕРАТОР, слушаю Вас.&lt;/font&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;2. Уточнение имени звонящего&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;b&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- &lt;font color=&quot;#003366&quot;&gt;ОПЕРАТОР&lt;/font&gt;: &lt;/b&gt;Подскажите, пожалуйста, как я могу к вам обращаться?&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- &lt;font color=&quot;#b5739d&quot;&gt;&lt;b&gt;КЛИЕНТ&lt;/b&gt;&lt;/font&gt;: Очень приятно, [ИМЯ КЛИЕНТА]&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;3. Если имя клиента/контактные данные неразборчивы: &lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;-&amp;nbsp;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#003366&quot;&gt;ОПЕРАТОР:&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Извините, не могли бы вы повторить ваше имя? Я правильно понял, что вас зовут [ИМЯ КЛИЕНТА]?&lt;/span&gt;&lt;span style=&quot;background-color: initial; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;font style=&quot;background-color: initial;&quot; color=&quot;#b5739d&quot;&gt;&lt;b&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- КЛИЕНТ&lt;/b&gt;&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;: Могу ли я уточнить, верно ли я записал ваш номер телефона - [ТЕЛЕФОН]&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;background-color: transparent; font-family: Arial, sans-serif; font-size: 11pt; white-space-collapse: preserve;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;4. Мотивирование дождаться обратного звонка специалиста:&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;В разговоре необходимо использовать фразы, мотивирующие клиента дождаться &lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-family: Arial, sans-serif; font-size: 11pt; white-space-collapse: preserve;&quot;&gt;звонка специалиста (например, профессиональное индивидуальное обслуживание квалифицированным специалистом, специальные предложения, скидки или &lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-family: Arial, sans-serif; font-size: 11pt; white-space-collapse: preserve; text-indent: 36pt;&quot;&gt;уникальные условия).&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;5. Обработка возражений:&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Скрипт должен предусматривать гибкие и вежливые ответы на возможные &lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-family: Arial, sans-serif; font-size: 11pt; white-space-collapse: preserve; text-indent: 36pt;&quot;&gt;возражения клиента, такие как желание получить информацию прямо сейчас или &lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-family: Arial, sans-serif; font-size: 11pt; white-space-collapse: preserve; text-indent: 36pt;&quot;&gt;сомнения в необходимости ожидания звонка от специалиста.&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;6. Аккуратное возвращение к основной теме:&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;background-color: transparent; font-family: Arial, sans-serif; font-size: 11pt; white-space-collapse: preserve; text-indent: 36pt;&quot;&gt;В случае отклонения клиента от основной темы, оператор должен мягко, но &lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-family: Arial, sans-serif; font-size: 11pt; white-space-collapse: preserve; text-indent: 36pt;&quot;&gt;уверенно возвращать разговор к ожиданию звонка специалиста.&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;7. Имена операторов, названия товаров и компаний:&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;В скрипте не используются реальные названия продуктов или компаний. Все &lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-family: Arial, sans-serif; font-size: 11pt; white-space-collapse: preserve; text-indent: 36pt;&quot;&gt;товары называются &quot;продукт&quot;, а компании — &quot;компания&quot;. Имена операторов &lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-family: Arial, sans-serif; font-size: 11pt; white-space-collapse: preserve; text-indent: 36pt;&quot;&gt;заменены на &quot;Оператор&quot;, имена клиентов на &quot;Клиент&quot;.&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;8. Заключение разговора:&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Завершение должно быть вежливым и побуждать клиента ожидать обратного &lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-family: Arial, sans-serif; font-size: 11pt; white-space-collapse: preserve; text-indent: 36pt;&quot;&gt;звонка&lt;/span&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2088" y="-875.9999999999999" width="500" height="829" as="geometry" />
+        </mxCell>
+        <mxCell id="I0kQURk4yg3gE_exjXrF-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="I0kQURk4yg3gE_exjXrF-1" target="I0kQURk4yg3gE_exjXrF-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I0kQURk4yg3gE_exjXrF-3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Требования&lt;/h1&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;1. Приветствие и представление:&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Оператор должен вежливо и четко поприветствовать звонящего и представиться.&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;2. Уточнение имени и деталей клиента:&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Оператор должен спросить имя клиента, а также уточнить контактные данные &lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-family: Arial, sans-serif; font-size: 11pt; white-space-collapse: preserve; text-indent: 36pt;&quot;&gt;для корректного оформления заявки.&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;3. Если имя клиента/контактные данные неразборчивы: &lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;background-color: transparent; font-family: Arial, sans-serif; font-size: 11pt; white-space-collapse: preserve;&quot;&gt;Оператор должен вежливо уточнить имя и/или данные.&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;background-color: transparent; font-family: Arial, sans-serif; font-size: 11pt; white-space-collapse: preserve;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;4. Мотивирование дождаться обратного звонка специалиста:&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;В разговоре необходимо использовать фразы, мотивирующие клиента дождаться &lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-family: Arial, sans-serif; font-size: 11pt; white-space-collapse: preserve;&quot;&gt;звонка специалиста (например, профессиональное индивидуальное обслуживание квалифицированным специалистом, специальные предложения, скидки или &lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-family: Arial, sans-serif; font-size: 11pt; white-space-collapse: preserve; text-indent: 36pt;&quot;&gt;уникальные условия).&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;5. Обработка возражений:&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Скрипт должен предусматривать гибкие и вежливые ответы на возможные &lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-family: Arial, sans-serif; font-size: 11pt; white-space-collapse: preserve; text-indent: 36pt;&quot;&gt;возражения клиента, такие как желание получить информацию прямо сейчас или &lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-family: Arial, sans-serif; font-size: 11pt; white-space-collapse: preserve; text-indent: 36pt;&quot;&gt;сомнения в необходимости ожидания звонка от специалиста.&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;6. Аккуратное возвращение к основной теме:&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;background-color: transparent; font-family: Arial, sans-serif; font-size: 11pt; white-space-collapse: preserve; text-indent: 36pt;&quot;&gt;В случае отклонения клиента от основной темы, оператор должен мягко, но &lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-family: Arial, sans-serif; font-size: 11pt; white-space-collapse: preserve; text-indent: 36pt;&quot;&gt;уверенно возвращать разговор к ожиданию звонка специалиста.&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;7. Имена операторов, названия товаров и компаний:&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;В скрипте не используются реальные названия продуктов или компаний. Все &lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-family: Arial, sans-serif; font-size: 11pt; white-space-collapse: preserve; text-indent: 36pt;&quot;&gt;товары называются &quot;продукт&quot;, а компании — &quot;компания&quot;. Имена операторов &lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-family: Arial, sans-serif; font-size: 11pt; white-space-collapse: preserve; text-indent: 36pt;&quot;&gt;заменены на &quot;Оператор&quot;, имена клиентов на &quot;Клиент&quot;.&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;8. Заключение разговора:&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;&quot;&gt;Завершение должно быть вежливым и побуждать клиента ожидать обратного &lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-family: Arial, sans-serif; font-size: 11pt; white-space-collapse: preserve; text-indent: 36pt;&quot;&gt;звонка&lt;/span&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2640" y="-876" width="500" height="829" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-133" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="I0kQURk4yg3gE_exjXrF-74" target="I0kQURk4yg3gE_exjXrF-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I0kQURk4yg3gE_exjXrF-74" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Приветствие&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;- Здравствуйте, Вы позвонили на горячую линию [КОМПАНИИ]. Меня зовут [ОПЕРАТОР], слушаю вас!&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="2694.99" y="24" width="330" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="I0kQURk4yg3gE_exjXrF-199" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="I0kQURk4yg3gE_exjXrF-77" target="I0kQURk4yg3gE_exjXrF-198" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I0kQURk4yg3gE_exjXrF-77" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Определение Имени&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;- Подскажите, пожалуйста, как я могу к вам обращаться?&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="2694.99" y="209" width="330" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-10" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="I0kQURk4yg3gE_exjXrF-79" target="kVmxGX0dmcAwJV_PvKGp-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I0kQURk4yg3gE_exjXrF-79" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Определение номера телефона&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- Могу ли я уточнить, верно ли я записал ваш контактный номер телефона?&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="2695" y="686" width="330" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-16" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="I0kQURk4yg3gE_exjXrF-82" target="kVmxGX0dmcAwJV_PvKGp-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2860" y="1958" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I0kQURk4yg3gE_exjXrF-82" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Выяснение потребности&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- Скажите пожалуйста, что вас интересует?&lt;/div&gt;&lt;div&gt;or&lt;/div&gt;&lt;div&gt;- Какой продукт вас заинтересовал?&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="2695" y="1485.34" width="330" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-38" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="I0kQURk4yg3gE_exjXrF-84" target="kVmxGX0dmcAwJV_PvKGp-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I0kQURk4yg3gE_exjXrF-84" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Определение Региона&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- Из какого региона вы звоните?&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="2694.98" y="2684" width="330" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-71" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="I0kQURk4yg3gE_exjXrF-88" target="kVmxGX0dmcAwJV_PvKGp-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I0kQURk4yg3gE_exjXrF-88" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Уточнение Потребности&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Подскажите, я правильно понял ваш вопрос? Вам интересно &lt;b&gt;{$USER_QUERY}&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="2694.98" y="3553" width="330" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="I0kQURk4yg3gE_exjXrF-108" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2177.0000000000246" y="1490.9999999999995" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I0kQURk4yg3gE_exjXrF-99" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.4;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1941.5" y="1017.2999999999997" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I0kQURk4yg3gE_exjXrF-103" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.625;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;exitX=0.31;exitY=0.8;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2225.9000000000005" y="1079.9" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I0kQURk4yg3gE_exjXrF-119" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="I0kQURk4yg3gE_exjXrF-112" target="I0kQURk4yg3gE_exjXrF-118" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I0kQURk4yg3gE_exjXrF-125" value="Хорошо, жду!" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="I0kQURk4yg3gE_exjXrF-119" vertex="1" connectable="0">
+          <mxGeometry x="-0.0585" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I0kQURk4yg3gE_exjXrF-123" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="I0kQURk4yg3gE_exjXrF-112" target="I0kQURk4yg3gE_exjXrF-122" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I0kQURk4yg3gE_exjXrF-124" value="Не хочу ждать / Нет времени" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="I0kQURk4yg3gE_exjXrF-123" vertex="1" connectable="0">
+          <mxGeometry x="-0.0513" y="5" relative="1" as="geometry">
+            <mxPoint x="-1" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I0kQURk4yg3gE_exjXrF-128" value="Может лучше вы раскажете мне сейчас?" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="I0kQURk4yg3gE_exjXrF-112" target="I0kQURk4yg3gE_exjXrF-127" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I0kQURk4yg3gE_exjXrF-112" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Передача оператору&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- Я вас понял(a), на все интересующие вас вопросы ответит наш специалист, квалифицированный именно по этому товару.&lt;/div&gt;&lt;/div&gt;&lt;div&gt;К сожалению, сейчас все специалисты заняты, но мы обязательно свяжемся с вами в течении &lt;b&gt;{$WAIT_TIME}&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="2684" y="4360.5" width="330" height="169" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-152" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="I0kQURk4yg3gE_exjXrF-118" target="kVmxGX0dmcAwJV_PvKGp-153">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2841" y="5124.000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I0kQURk4yg3gE_exjXrF-118" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Завершение разговора&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Благодарим Вас за звонок,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;оператор свяжется с вами в течении &lt;b&gt;$TIME&lt;/b&gt; времени!&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="2676" y="4852.5" width="330" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="I0kQURk4yg3gE_exjXrF-122" value="&lt;br&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Мотивация принять обратный звонок&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-family: Arial, sans-serif; white-space-collapse: preserve;&quot;&gt;- Наш квалифицированный специалист обсудит и проконсультирует вас по всем &lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-family: Arial, sans-serif; white-space-collapse: preserve; text-indent: 36pt;&quot;&gt;важным вопросам связанным с товаром, и его оптимальному использованию &lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-family: Arial, sans-serif; white-space-collapse: preserve; text-indent: 36pt;&quot;&gt;именно для вас, расскажет об эксклюзивных и выгодных предложениях. &lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-family: Arial, sans-serif; white-space-collapse: preserve; text-indent: 36pt;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-family: Arial, sans-serif; white-space-collapse: preserve; text-indent: 36pt;&quot;&gt;Пожалуйста, не пропустите этот звонок, &lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-family: Arial, sans-serif; white-space-collapse: preserve; text-indent: 36pt;&quot;&gt;чтобы мы могли помочь вам &lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-family: Arial, sans-serif; white-space-collapse: preserve; text-indent: 36pt;&quot;&gt;воспользоваться всеми преимуществами.&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-3a753072-7fff-c8ee-7bb3-83dde42b8152&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="2035.02" y="4776" width="380" height="275" as="geometry" />
+        </mxCell>
+        <mxCell id="I0kQURk4yg3gE_exjXrF-126" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="I0kQURk4yg3gE_exjXrF-122" target="I0kQURk4yg3gE_exjXrF-122" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I0kQURk4yg3gE_exjXrF-127" value="&lt;div&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;Возражение&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;&quot;Расскажи сейчас&quot;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px; background-color: initial;&quot;&gt;- Понимаю ваше желание получить информацию сразу.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px; text-indent: 36pt; background-color: transparent; white-space-collapse: preserve; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;&quot;&gt;Квалифицированный специалист сможет лучше проконсультировать В&lt;/span&gt;&lt;span style=&quot;font-size: 14px; text-indent: 36pt; background-color: transparent; white-space-collapse: preserve; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;&quot;&gt;ас по&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px; background-color: transparent; font-family: Arial, sans-serif; white-space-collapse: preserve;&quot;&gt;всем персональным вопросам, чтобы предоставить полные данные и &lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-family: Arial, sans-serif; font-size: 14px; white-space-collapse: preserve;&quot;&gt;предложения. &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; font-family: Arial, sans-serif; font-size: 14px; white-space-collapse: preserve;&quot;&gt;Благодаря его опыту и знаниям, вы получите именно ту информацию и рекомендации, которые вам нужны, с учетом всех ваших пожеланий. Пожалуйста, дождитесь звонка — это займёт совсем немного времени.&quot;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot; id=&quot;docs-internal-guid-9f654057-7fff-46bc-feca-f48653439a39&quot;&gt;&lt;div&gt;&lt;span style=&quot;font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="3223" y="4754" width="349" height="319" as="geometry" />
+        </mxCell>
+        <mxCell id="I0kQURk4yg3gE_exjXrF-205" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="I0kQURk4yg3gE_exjXrF-198" target="I0kQURk4yg3gE_exjXrF-79" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I0kQURk4yg3gE_exjXrF-206" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;ДА&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="I0kQURk4yg3gE_exjXrF-205" vertex="1" connectable="0">
+          <mxGeometry x="-0.0929" y="-1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I0kQURk4yg3gE_exjXrF-256" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="I0kQURk4yg3gE_exjXrF-198" target="I0kQURk4yg3gE_exjXrF-208" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I0kQURk4yg3gE_exjXrF-257" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;НЕТ&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="I0kQURk4yg3gE_exjXrF-256" vertex="1" connectable="0">
+          <mxGeometry x="-0.6256" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I0kQURk4yg3gE_exjXrF-198" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;РАСПОЗНАНИЕ&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;УСПЕШНО?&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2763.68" y="433.66" width="192.61" height="154.67" as="geometry" />
+        </mxCell>
+        <mxCell id="I0kQURk4yg3gE_exjXrF-258" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="I0kQURk4yg3gE_exjXrF-210" target="I0kQURk4yg3gE_exjXrF-79" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I0kQURk4yg3gE_exjXrF-260" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;ДА&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="I0kQURk4yg3gE_exjXrF-258" vertex="1" connectable="0">
+          <mxGeometry x="-0.7056" y="-5" relative="1" as="geometry">
+            <mxPoint x="11" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I0kQURk4yg3gE_exjXrF-238" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="I0kQURk4yg3gE_exjXrF-228" target="I0kQURk4yg3gE_exjXrF-82" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I0kQURk4yg3gE_exjXrF-239" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;ДА&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="I0kQURk4yg3gE_exjXrF-238" vertex="1" connectable="0">
+          <mxGeometry x="0.087" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I0kQURk4yg3gE_exjXrF-240" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="I0kQURk4yg3gE_exjXrF-229" target="I0kQURk4yg3gE_exjXrF-82" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I0kQURk4yg3gE_exjXrF-232" value="Паттерн: Дополнительные вопросы" style="swimlane;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="1958.02" y="366" width="484" height="750" as="geometry" />
+        </mxCell>
+        <mxCell id="I0kQURk4yg3gE_exjXrF-210" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;РАСПОЗНАНИЕ&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;УСПЕШНО?&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="I0kQURk4yg3gE_exjXrF-232" vertex="1">
+          <mxGeometry x="160" y="180" width="164" height="148" as="geometry" />
+        </mxCell>
+        <mxCell id="I0kQURk4yg3gE_exjXrF-208" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Уточнение Имени&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;- Извините, я не совсем расслышал ваше имя. Могли бы вы повторить, чтобы я правильно его записал?&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="I0kQURk4yg3gE_exjXrF-232" vertex="1">
+          <mxGeometry x="77" y="35" width="330" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="I0kQURk4yg3gE_exjXrF-211" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="I0kQURk4yg3gE_exjXrF-232" source="I0kQURk4yg3gE_exjXrF-208" target="I0kQURk4yg3gE_exjXrF-210" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-106" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="I0kQURk4yg3gE_exjXrF-232" source="I0kQURk4yg3gE_exjXrF-212" target="kVmxGX0dmcAwJV_PvKGp-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I0kQURk4yg3gE_exjXrF-212" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Последнее уточнение Имени&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;-&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Мне важно правильно записать ваше имя, могли бы вы произнести его чуть медленнее или по буквам?&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="I0kQURk4yg3gE_exjXrF-232" vertex="1">
+          <mxGeometry x="77" y="377.9999999999999" width="330" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="I0kQURk4yg3gE_exjXrF-213" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="I0kQURk4yg3gE_exjXrF-232" source="I0kQURk4yg3gE_exjXrF-210" target="I0kQURk4yg3gE_exjXrF-212" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I0kQURk4yg3gE_exjXrF-217" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;НЕТ&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="I0kQURk4yg3gE_exjXrF-213" vertex="1" connectable="0">
+          <mxGeometry x="-0.3348" relative="1" as="geometry">
+            <mxPoint y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-104" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;РАСПОЗНАНИЕ&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;УСПЕШНО?&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="I0kQURk4yg3gE_exjXrF-232">
+          <mxGeometry x="149.85999999999967" y="534" width="184.28" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="I0kQURk4yg3gE_exjXrF-233" value="Паттерн: Дополнительные вопросы" style="swimlane;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="1958.02" y="1155" width="484" height="825" as="geometry" />
+        </mxCell>
+        <mxCell id="I0kQURk4yg3gE_exjXrF-225" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Уточнение номера телефона&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;- В таком случае, не могли бы вы продиктовать ваш контактный номер телефона?&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="I0kQURk4yg3gE_exjXrF-233" vertex="1">
+          <mxGeometry x="77.00999999999999" y="79.67000000000007" width="330" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="I0kQURk4yg3gE_exjXrF-228" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;РАСПОЗНАНИЕ&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;УСПЕШНО?&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="I0kQURk4yg3gE_exjXrF-233" vertex="1">
+          <mxGeometry x="145.70000000000027" y="308" width="192.61" height="154.67" as="geometry" />
+        </mxCell>
+        <mxCell id="I0kQURk4yg3gE_exjXrF-224" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="I0kQURk4yg3gE_exjXrF-233" source="I0kQURk4yg3gE_exjXrF-225" target="I0kQURk4yg3gE_exjXrF-228" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I0kQURk4yg3gE_exjXrF-229" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Не распознан номера телефона&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;- Извините, я не совсем расслышал ваш номер телефона.&lt;/div&gt;&lt;div&gt;&amp;nbsp;Могли бы вы повторить, чтобы я правильно его записал?&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="I0kQURk4yg3gE_exjXrF-233" vertex="1">
+          <mxGeometry x="77" y="616" width="330" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="I0kQURk4yg3gE_exjXrF-226" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="I0kQURk4yg3gE_exjXrF-233" source="I0kQURk4yg3gE_exjXrF-228" target="I0kQURk4yg3gE_exjXrF-229" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I0kQURk4yg3gE_exjXrF-227" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;НЕТ&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="I0kQURk4yg3gE_exjXrF-226" vertex="1" connectable="0">
+          <mxGeometry x="-0.3348" relative="1" as="geometry">
+            <mxPoint y="20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I0kQURk4yg3gE_exjXrF-242" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Паттерн: Фильтрация спама&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 25px; font-weight: normal;&quot;&gt;(Можно ссылаться от любого этапа анкеты)&lt;/font&gt;&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;startSize=84;" parent="1" vertex="1">
+          <mxGeometry x="3468" y="336" width="1001" height="1140" as="geometry" />
+        </mxCell>
+        <mxCell id="I0kQURk4yg3gE_exjXrF-245" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="I0kQURk4yg3gE_exjXrF-242" source="I0kQURk4yg3gE_exjXrF-243" target="I0kQURk4yg3gE_exjXrF-244" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I0kQURk4yg3gE_exjXrF-243" value="&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Определение цели&lt;/span&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;- Уточните пожалуйста, по какому вопросу вы обращаетесь?&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="I0kQURk4yg3gE_exjXrF-242" vertex="1">
+          <mxGeometry x="385" y="122.99" width="231" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-121" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="I0kQURk4yg3gE_exjXrF-242" source="I0kQURk4yg3gE_exjXrF-244" target="I0kQURk4yg3gE_exjXrF-251">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-155" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;НЕТ&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="kVmxGX0dmcAwJV_PvKGp-121">
+          <mxGeometry x="-0.1654" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-128" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="I0kQURk4yg3gE_exjXrF-242" source="I0kQURk4yg3gE_exjXrF-244" target="I0kQURk4yg3gE_exjXrF-264">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-156" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;ДА&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="kVmxGX0dmcAwJV_PvKGp-128">
+          <mxGeometry x="-0.6208" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I0kQURk4yg3gE_exjXrF-244" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;ОТВЕТ&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;ПО&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;СУЩЕСТВУ?&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="I0kQURk4yg3gE_exjXrF-242" vertex="1">
+          <mxGeometry x="406.99" y="314.66" width="187.01" height="138.67" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-122" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="I0kQURk4yg3gE_exjXrF-242" source="I0kQURk4yg3gE_exjXrF-251" target="I0kQURk4yg3gE_exjXrF-261">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I0kQURk4yg3gE_exjXrF-251" value="&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Ответ не внятный&lt;/span&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;- Извините, я не совсем понял ваш вопрос. Могли бы вы пояснить подробнее?&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" parent="I0kQURk4yg3gE_exjXrF-242" vertex="1">
+          <mxGeometry x="696" y="343.99" width="231" height="76.01" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-123" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="I0kQURk4yg3gE_exjXrF-242" source="I0kQURk4yg3gE_exjXrF-261" target="I0kQURk4yg3gE_exjXrF-269">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-157" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;НЕТ&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="kVmxGX0dmcAwJV_PvKGp-123">
+          <mxGeometry x="0.0215" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-124" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;ДА&lt;/font&gt;" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="I0kQURk4yg3gE_exjXrF-242" source="I0kQURk4yg3gE_exjXrF-261" target="I0kQURk4yg3gE_exjXrF-264">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I0kQURk4yg3gE_exjXrF-261" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;ОТВЕТ&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;ПО&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;СУЩЕСТВУ?&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="I0kQURk4yg3gE_exjXrF-242" vertex="1">
+          <mxGeometry x="406.99" y="539" width="187.01" height="138.67" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-126" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;НЕТ&lt;/font&gt;" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="I0kQURk4yg3gE_exjXrF-242" source="kVmxGX0dmcAwJV_PvKGp-1" target="kVmxGX0dmcAwJV_PvKGp-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-127" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="I0kQURk4yg3gE_exjXrF-242" source="kVmxGX0dmcAwJV_PvKGp-1" target="I0kQURk4yg3gE_exjXrF-264">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-1" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;ОТВЕТ&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;ПО&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;СУЩЕСТВУ?&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="I0kQURk4yg3gE_exjXrF-242">
+          <mxGeometry x="406.9899999999998" y="781" width="187.01" height="138.67" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-159" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="I0kQURk4yg3gE_exjXrF-242" source="kVmxGX0dmcAwJV_PvKGp-5" target="kVmxGX0dmcAwJV_PvKGp-158">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-5" value="&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Третий&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;не внятный о&lt;/span&gt;&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;твет&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Извините, но я не могу продолжить разговор, так как не получил от вас четкой информации.&amp;nbsp;&lt;/div&gt;&lt;div&gt;Если у вас появятся конкретные вопросы, пожалуйста, перезвоните. Всего доброго!&quot;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="I0kQURk4yg3gE_exjXrF-242">
+          <mxGeometry x="696" y="767.83" width="231" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-8" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="I0kQURk4yg3gE_exjXrF-242" source="kVmxGX0dmcAwJV_PvKGp-5" target="kVmxGX0dmcAwJV_PvKGp-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I0kQURk4yg3gE_exjXrF-264" value="&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Переход к анкете&lt;/span&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;- Отлично, спасибо за информацию, давайте уточним некоторые детали&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="I0kQURk4yg3gE_exjXrF-242" vertex="1">
+          <mxGeometry x="48" y="568.34" width="231" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-125" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="I0kQURk4yg3gE_exjXrF-242" source="I0kQURk4yg3gE_exjXrF-269" target="kVmxGX0dmcAwJV_PvKGp-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I0kQURk4yg3gE_exjXrF-269" value="&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Повторный&amp;nbsp;&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;не внятный о&lt;/span&gt;&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;твет&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;- К сожалению, я вас не могу вас понять, я отвечаю только на вопросы связанные с товарами &lt;b&gt;{$COMPANY}&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="I0kQURk4yg3gE_exjXrF-242" vertex="1">
+          <mxGeometry x="696" y="547.34" width="231" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-158" value="&lt;b&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Завершение разговора&lt;/span&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="I0kQURk4yg3gE_exjXrF-242">
+          <mxGeometry x="384.99" y="1032" width="231" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-11" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="kVmxGX0dmcAwJV_PvKGp-9" target="I0kQURk4yg3gE_exjXrF-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;ДА&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="kVmxGX0dmcAwJV_PvKGp-11">
+          <mxGeometry x="-0.5475" y="3" relative="1" as="geometry">
+            <mxPoint x="-3" y="17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-14" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="kVmxGX0dmcAwJV_PvKGp-9" target="I0kQURk4yg3gE_exjXrF-225">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-15" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;НЕТ&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="kVmxGX0dmcAwJV_PvKGp-14">
+          <mxGeometry x="-0.5873" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-9" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Актуален ли&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;контактный номер&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;в базе?&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2763.68" y="1212.34" width="192.61" height="154.67" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-25" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="kVmxGX0dmcAwJV_PvKGp-17" target="I0kQURk4yg3gE_exjXrF-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-26" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;ДА&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="kVmxGX0dmcAwJV_PvKGp-25">
+          <mxGeometry x="-0.8627" y="-2" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-27" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="kVmxGX0dmcAwJV_PvKGp-17" target="kVmxGX0dmcAwJV_PvKGp-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-28" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;НЕТ&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="kVmxGX0dmcAwJV_PvKGp-27">
+          <mxGeometry x="-0.6392" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-136" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="kVmxGX0dmcAwJV_PvKGp-17" target="kVmxGX0dmcAwJV_PvKGp-141">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3684" y="2185.7890918163166" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-17" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Потребность распознана?&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2763.68" y="2123" width="192.61" height="154.67" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-18" value="Паттерн: Дополнительные вопросы" style="swimlane;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1958.02" y="2068" width="484" height="792" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-19" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Объясните подробнее&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;- Извините, я не совсем понял ваш вопрос. Могли бы вы пояснить подробнее?&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="kVmxGX0dmcAwJV_PvKGp-18">
+          <mxGeometry x="77.00999999999999" y="79.67000000000007" width="330" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-20" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;РАСПОЗНАНИЕ&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;УСПЕШНО?&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="kVmxGX0dmcAwJV_PvKGp-18">
+          <mxGeometry x="145.70000000000027" y="308" width="192.61" height="154.67" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-21" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="kVmxGX0dmcAwJV_PvKGp-18" source="kVmxGX0dmcAwJV_PvKGp-19" target="kVmxGX0dmcAwJV_PvKGp-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-23" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="kVmxGX0dmcAwJV_PvKGp-18" source="kVmxGX0dmcAwJV_PvKGp-20" target="kVmxGX0dmcAwJV_PvKGp-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="242.00000000000045" y="616" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-24" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;НЕТ&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="kVmxGX0dmcAwJV_PvKGp-23">
+          <mxGeometry x="-0.3348" relative="1" as="geometry">
+            <mxPoint y="20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-57" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Объясните подробнее&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;- К сожалению, я не могу вас понять. Если у вас есть конкретный вопрос, пожалуйста, уточните его&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="kVmxGX0dmcAwJV_PvKGp-18">
+          <mxGeometry x="77.00999999999999" y="616" width="330" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-29" value="Паттерн: Дополнительные вопросы" style="swimlane;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1958.02" y="2937" width="484" height="825" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-30" value="&lt;div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Уточнение региона&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;- Извините, я не совсем расслышал ваш регион.&lt;/div&gt;&lt;div&gt;&amp;nbsp;Не могли бы вы повторить,&lt;/div&gt;&lt;div&gt;&amp;nbsp;чтобы я правильно его записал?&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="kVmxGX0dmcAwJV_PvKGp-29">
+          <mxGeometry x="77.00999999999999" y="79.67000000000007" width="330" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-31" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;РАСПОЗНАНИЕ&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;УСПЕШНО?&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="kVmxGX0dmcAwJV_PvKGp-29">
+          <mxGeometry x="145.70000000000027" y="308" width="192.61" height="154.67" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-32" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="kVmxGX0dmcAwJV_PvKGp-29" source="kVmxGX0dmcAwJV_PvKGp-30" target="kVmxGX0dmcAwJV_PvKGp-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-33" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Не распознан номера телефона&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;- Извините, я не совсем расслышал ваш номер телефона.&lt;/div&gt;&lt;div&gt;&amp;nbsp;Могли бы вы повторить, чтобы я правильно его записал?&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="kVmxGX0dmcAwJV_PvKGp-29">
+          <mxGeometry x="77" y="616" width="330" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-34" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="kVmxGX0dmcAwJV_PvKGp-29" source="kVmxGX0dmcAwJV_PvKGp-31" target="kVmxGX0dmcAwJV_PvKGp-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-35" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;НЕТ&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="kVmxGX0dmcAwJV_PvKGp-34">
+          <mxGeometry x="-0.3348" relative="1" as="geometry">
+            <mxPoint y="20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-39" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="kVmxGX0dmcAwJV_PvKGp-37" target="kVmxGX0dmcAwJV_PvKGp-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-44" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;НЕТ&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="kVmxGX0dmcAwJV_PvKGp-39">
+          <mxGeometry x="-0.2432" relative="1" as="geometry">
+            <mxPoint x="82" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-40" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="kVmxGX0dmcAwJV_PvKGp-37" target="I0kQURk4yg3gE_exjXrF-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-43" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;ДА&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="kVmxGX0dmcAwJV_PvKGp-40">
+          <mxGeometry x="-0.71" y="2" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-37" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;РАСПОЗНАНИЕ УСПЕШНО?&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2763.69" y="2995" width="192.61" height="154.67" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-41" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="kVmxGX0dmcAwJV_PvKGp-31" target="I0kQURk4yg3gE_exjXrF-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-46" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;ДА&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="kVmxGX0dmcAwJV_PvKGp-41">
+          <mxGeometry x="-0.8113" y="1" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-42" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="kVmxGX0dmcAwJV_PvKGp-33" target="I0kQURk4yg3gE_exjXrF-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-47" value="Записываем что есть" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="kVmxGX0dmcAwJV_PvKGp-42">
+          <mxGeometry x="-0.1787" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-48" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;РАСПОЗНАНИЕ&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;УСПЕШНО?&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1625.03" y="-876" width="410" height="366" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-52" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="kVmxGX0dmcAwJV_PvKGp-51" target="kVmxGX0dmcAwJV_PvKGp-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-53" value="НЕТ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="kVmxGX0dmcAwJV_PvKGp-52">
+          <mxGeometry x="-0.2293" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-54" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="kVmxGX0dmcAwJV_PvKGp-51" target="kVmxGX0dmcAwJV_PvKGp-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1850.01" y="-504" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-55" value="ДА" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="kVmxGX0dmcAwJV_PvKGp-54">
+          <mxGeometry x="-0.4447" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-51" value="Я вас правильно понял?&lt;div&gt;&lt;b&gt;{$QUERY}&lt;/b&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1768.03" y="-755" width="124" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-58" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="kVmxGX0dmcAwJV_PvKGp-57" target="I0kQURk4yg3gE_exjXrF-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-59" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="kVmxGX0dmcAwJV_PvKGp-20" target="I0kQURk4yg3gE_exjXrF-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-60" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;ДА&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="kVmxGX0dmcAwJV_PvKGp-59">
+          <mxGeometry x="-0.6763" y="2" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-61" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Объясните подробнее&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;- Извините, я не совсем понял ваш вопрос. Могли бы вы пояснить подробнее?&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="2035.03" y="3853.67" width="330" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-74" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="kVmxGX0dmcAwJV_PvKGp-62" target="I0kQURk4yg3gE_exjXrF-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-62" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;РАСПОЗНАНИЕ&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;УСПЕШНО?&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2103.7200000000003" y="4082" width="192.61" height="154.67" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-63" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" source="kVmxGX0dmcAwJV_PvKGp-61" target="kVmxGX0dmcAwJV_PvKGp-62" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-64" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" source="kVmxGX0dmcAwJV_PvKGp-62" target="kVmxGX0dmcAwJV_PvKGp-66" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2200.0200000000004" y="4390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-65" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;НЕТ&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="kVmxGX0dmcAwJV_PvKGp-64">
+          <mxGeometry x="-0.3348" relative="1" as="geometry">
+            <mxPoint y="20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-75" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="kVmxGX0dmcAwJV_PvKGp-66" target="I0kQURk4yg3gE_exjXrF-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-66" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Объясните подробнее&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;- К сожалению, я не могу вас понять. Если у вас есть конкретный вопрос, пожалуйста, уточните его&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="2035.03" y="4390" width="330" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-72" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="kVmxGX0dmcAwJV_PvKGp-68" target="kVmxGX0dmcAwJV_PvKGp-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-73" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="kVmxGX0dmcAwJV_PvKGp-68" target="I0kQURk4yg3gE_exjXrF-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-144" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="kVmxGX0dmcAwJV_PvKGp-68" target="kVmxGX0dmcAwJV_PvKGp-141">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3300" y="3909" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-68" value="&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Потребность распознана?&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2764.19" y="3831.33" width="192.61" height="154.67" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-83" value="Паттерн: Дополнительные вопросы" style="swimlane;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1958.02" y="3804" width="484" height="792" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-86" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="kVmxGX0dmcAwJV_PvKGp-83" target="kVmxGX0dmcAwJV_PvKGp-85">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="242.0084134310273" y="189.67000000000098" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-87" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="kVmxGX0dmcAwJV_PvKGp-83" target="kVmxGX0dmcAwJV_PvKGp-89">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="242.00667631963915" y="462.6686538790382" as="sourcePoint" />
+            <mxPoint x="242.00000000000045" y="616" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-88" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;НЕТ&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="kVmxGX0dmcAwJV_PvKGp-87">
+          <mxGeometry x="-0.3348" relative="1" as="geometry">
+            <mxPoint y="20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-107" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="kVmxGX0dmcAwJV_PvKGp-104" target="I0kQURk4yg3gE_exjXrF-79">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2412" y="1008" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-108" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;ДА&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="kVmxGX0dmcAwJV_PvKGp-107">
+          <mxGeometry x="-0.6065" relative="1" as="geometry">
+            <mxPoint x="-37" y="-25" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-130" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kVmxGX0dmcAwJV_PvKGp-104" target="I0kQURk4yg3gE_exjXrF-243">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2112" y="1176" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-131" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;НЕТ&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="kVmxGX0dmcAwJV_PvKGp-130">
+          <mxGeometry x="-0.9731" y="23" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-132" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="I0kQURk4yg3gE_exjXrF-264" target="I0kQURk4yg3gE_exjXrF-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-134" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="kVmxGX0dmcAwJV_PvKGp-9" target="kVmxGX0dmcAwJV_PvKGp-140">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3684" y="2004" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-135" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="I0kQURk4yg3gE_exjXrF-198" target="kVmxGX0dmcAwJV_PvKGp-139">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2895" y="560" as="sourcePoint" />
+            <mxPoint x="3827" y="2004" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-137" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="kVmxGX0dmcAwJV_PvKGp-37" target="kVmxGX0dmcAwJV_PvKGp-142">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3684" y="2362" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-138" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;Данные для оператора&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=60;" vertex="1" parent="1">
+          <mxGeometry x="3684" y="2009" width="336" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-140" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Телефон&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="kVmxGX0dmcAwJV_PvKGp-138">
+          <mxGeometry x="36" y="79" width="102.31" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-141" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Потребность&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="kVmxGX0dmcAwJV_PvKGp-138">
+          <mxGeometry x="36" y="228" width="102" height="100.69" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-142" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Регион&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="kVmxGX0dmcAwJV_PvKGp-138">
+          <mxGeometry x="192" y="228" width="102" height="100.69" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-139" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Имя&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="kVmxGX0dmcAwJV_PvKGp-138">
+          <mxGeometry x="192" y="79" width="102" height="100.69" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-143" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="kVmxGX0dmcAwJV_PvKGp-138" source="kVmxGX0dmcAwJV_PvKGp-139" target="kVmxGX0dmcAwJV_PvKGp-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-146" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="kVmxGX0dmcAwJV_PvKGp-141" target="I0kQURk4yg3gE_exjXrF-88">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3240" y="3600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-148" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;Возражения (Глобальные)&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=108;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="3361" y="3762" width="1332" height="576" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-147" value="&lt;div&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;Возражение&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;&quot;Расскажи сейчас&quot;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px; background-color: initial;&quot;&gt;- Понимаю ваше желание получить информацию сразу.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px; text-indent: 36pt; background-color: transparent; white-space-collapse: preserve; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;&quot;&gt;Квалифицированный специалист сможет лучше проконсультировать В&lt;/span&gt;&lt;span style=&quot;font-size: 14px; text-indent: 36pt; background-color: transparent; white-space-collapse: preserve; font-family: Arial, sans-serif; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;&quot;&gt;ас по&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px; background-color: transparent; font-family: Arial, sans-serif; white-space-collapse: preserve;&quot;&gt;всем персональным вопросам, чтобы предоставить полные данные и &lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-family: Arial, sans-serif; font-size: 14px; white-space-collapse: preserve;&quot;&gt;предложения. &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; font-family: Arial, sans-serif; font-size: 14px; white-space-collapse: preserve;&quot;&gt;Благодаря его опыту и знаниям, вы получите именно ту информацию и рекомендации, которые вам нужны, с учетом всех ваших пожеланий. Пожалуйста, дождитесь звонка — это займёт совсем немного времени.&quot;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;&quot; id=&quot;docs-internal-guid-9f654057-7fff-46bc-feca-f48653439a39&quot;&gt;&lt;div&gt;&lt;span style=&quot;font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="kVmxGX0dmcAwJV_PvKGp-148">
+          <mxGeometry x="47" y="144" width="349" height="319" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-149" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Мотивация принять обратный звонок&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-family: Arial, sans-serif; white-space-collapse: preserve;&quot;&gt;- Наш квалифицированный специалист обсудит и проконсультирует вас по всем &lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-family: Arial, sans-serif; white-space-collapse: preserve; text-indent: 36pt;&quot;&gt;важным вопросам связанным с товаром, и его оптимальному использованию &lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-family: Arial, sans-serif; white-space-collapse: preserve; text-indent: 36pt;&quot;&gt;именно для вас, расскажет об эксклюзивных и выгодных предложениях. &lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-family: Arial, sans-serif; white-space-collapse: preserve; text-indent: 36pt;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-family: Arial, sans-serif; white-space-collapse: preserve; text-indent: 36pt;&quot;&gt;Пожалуйста, не пропустите этот звонок, &lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-family: Arial, sans-serif; white-space-collapse: preserve; text-indent: 36pt;&quot;&gt;чтобы мы могли помочь вам &lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-family: Arial, sans-serif; white-space-collapse: preserve; text-indent: 36pt;&quot;&gt;воспользоваться всеми преимуществами.&lt;/span&gt;&lt;/div&gt;&lt;span id=&quot;docs-internal-guid-3a753072-7fff-c8ee-7bb3-83dde42b8152&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-family: Arial, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="kVmxGX0dmcAwJV_PvKGp-148">
+          <mxGeometry x="449" y="144" width="391" height="319" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-150" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" source="kVmxGX0dmcAwJV_PvKGp-149" target="kVmxGX0dmcAwJV_PvKGp-149" parent="kVmxGX0dmcAwJV_PvKGp-148">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-151" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Другие возражения&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;или&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Ненормативная лексика&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-family: Arial, sans-serif; white-space-collapse: preserve;&quot;&gt;- Текст&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-family: Arial, sans-serif; white-space-collapse: preserve;&quot;&gt;Например не нормативная лексика&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="kVmxGX0dmcAwJV_PvKGp-148">
+          <mxGeometry x="899" y="144" width="391" height="319" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-153" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="2811" y="5148.000000000001" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-162" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Является ли телефон с которого звонить клиент - Контактным?&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0;" vertex="1" parent="1">
+          <mxGeometry x="2940" y="1164" width="186" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-163" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Количество повторений можно сколько угодно регулировать&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=1;" vertex="1" parent="1">
+          <mxGeometry x="1752" y="252" width="264" height="109" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-164" value="PostgreSQL?" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.2;" vertex="1" parent="1">
+          <mxGeometry x="4032" y="1908" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-165" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;Глобальные интенты&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=108;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="4176" y="4571" width="517" height="606.5" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-166" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Приветствие&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="kVmxGX0dmcAwJV_PvKGp-165">
+          <mxGeometry x="84" y="181" width="349" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-168" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="kVmxGX0dmcAwJV_PvKGp-165">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="644.5" y="462.9999999999991" as="sourcePoint" />
+            <mxPoint x="644.5" y="462.9999999999991" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-171" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Прощание&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="kVmxGX0dmcAwJV_PvKGp-165">
+          <mxGeometry x="84" y="278" width="349" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-172" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Благодарность&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="kVmxGX0dmcAwJV_PvKGp-165">
+          <mxGeometry x="84" y="481" width="349" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kVmxGX0dmcAwJV_PvKGp-175" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;...&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="kVmxGX0dmcAwJV_PvKGp-165">
+          <mxGeometry x="84" y="379" width="349" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
